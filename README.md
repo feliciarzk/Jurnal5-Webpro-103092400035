@@ -1,3 +1,9 @@
+Nama 		: Felicia Rizka Putri
+NIM		: 103092400035
+Kelas 		: IT-07-02
+
+TUGAS PRAKTIKUM 5
+
 1.	Pengertian Bootstrap [10 poin] 
 Jelaskan apa itu Bootstrap dan apa kegunaannya!
 Jawab: Bootstrap adalah framework CSS yang digunakan untuk mempermudah pembuatan tampilan website. Bootstrap menyediakan berbagai class dan komponen siap pakai, seperti tombol, navbar, form, dan card. Dengan Bootstrap, kita bisa membuat website yang rapi, menarik, dan responsif tanpa harus menulis banyak kode CSS dari awal.
